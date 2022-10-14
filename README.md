@@ -3,8 +3,8 @@
 A script that enters data from an excel file into a website.
 
 **VIDEO TUTORIAL/EXPLANIATION:**
-https://www.youtube.com/watch?v=S0FF1fgepwQ
 
+https://www.youtube.com/watch?v=S0FF1fgepwQ
 
 
 **Note:** This tutorial assumes you have:
